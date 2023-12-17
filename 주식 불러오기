@@ -1,0 +1,5 @@
+!pip install -U finance-datareader
+import pandas as pd
+import FinanceDataReader as fdr
+
+fdr.__version__
